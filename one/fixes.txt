@@ -1,3 +1,5 @@
 this is bug fix file
 
 one more bug fixed in the master branch
+
+new bug fixes
